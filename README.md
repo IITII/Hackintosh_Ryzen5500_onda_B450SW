@@ -1,5 +1,5 @@
-# Hackintosh_Ryzen5500_onda_B450MW
-Hackintosh Monterey for Ryzen5500, Onda B450M-W, RX580 2048sp
+# Hackintosh_Ryzen5500_onda_B450SW
+Hackintosh Monterey for Ryzen5500, Onda B450 SW, RX580 2048sp
 
 ## 基本信息
 * OC 0.9.4, Ryzen5500, Onda B450 SW, RX580 2048sp
