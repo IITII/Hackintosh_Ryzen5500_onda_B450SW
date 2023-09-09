@@ -27,7 +27,7 @@ Hackintosh Monterey for Ryzen5500, Onda B450 SW, RX580 2048sp
 |   机箱    |       小喆C2P        |
 |   电源    |     鑫谷 AN650w      |
 
-* RX580 2048sp 已刷 蓝宝石RX570 驱动, 并注入相关信息 link
+* RX580 2048sp 已刷 蓝宝石RX570 驱动, 并注入相关信息 [link](https://iitii.github.io/2023/08/15/1/)
 
 ## TODO
 * 测试黑果完美程度
